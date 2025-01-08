@@ -12,7 +12,11 @@
 🎯 **Áreas de Interés:**  
 - **Desarrollo de Software:** Backend y Frontend.  
 - **IoT y Automatización:** Conectando el mundo físico con el digital.  
-- **Data Science:** Encontrando historias en los datos. 
+- **Data Science:** Encontrando historias en los datos.
+
+  ## 🌟 Proyectos Destacados  
+
+📌 **CERBRO 27001(#)**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
