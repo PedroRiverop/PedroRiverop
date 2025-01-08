@@ -4,17 +4,18 @@
 - 👨‍💻 All of my projects are available at [https://github.com/PedroRiverop](https://github.com/PedroRiverop)
 
   
-🧠 **¿Qué me inspira?**  
-- Resolver problemas con elegancia técnica.  
-- Aprender algo nuevo cada día.  
-- Colaborar con mentes brillantes en proyectos emocionantes.  
+🧠 **What drives me?**  
+- Solving problems with technical elegance.  
+- Learning something new every day.  
+- Collaborating with brilliant minds on exciting projects.  
 
-🎯 **Áreas de Interés:**  
-- **Desarrollo de Software:** Backend y Frontend.  
-- **IoT y Automatización:** Conectando el mundo físico con el digital.  
-- **Data Science:** Encontrando historias en los datos.
+🎯 **Areas of Interest:**  
+- **Software Development:** Backend and Frontend.  
+- **IoT and Automation:** Connecting the physical world to the digital.  
+- **Data Science:** Finding stories hidden in data.  
 
-  ## 🌟 Proyectos Destacados  
+
+  ## 🌟 Featured Projects  
 
 📌 **CERBRO 27001(#)**  
 
