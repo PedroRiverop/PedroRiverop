@@ -3,6 +3,17 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PedroRiverop](https://github.com/PedroRiverop)
 
+  
+🧠 **¿Qué me inspira?**  
+- Resolver problemas con elegancia técnica.  
+- Aprender algo nuevo cada día.  
+- Colaborar con mentes brillantes en proyectos emocionantes.  
+
+🎯 **Áreas de Interés:**  
+- **Desarrollo de Software:** Backend y Frontend.  
+- **IoT y Automatización:** Conectando el mundo físico con el digital.  
+- **Data Science:** Encontrando historias en los datos. 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jpedroriverop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpedroriverop" height="30" width="40" /></a>
