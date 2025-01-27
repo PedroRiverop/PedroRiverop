@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="../PedroRiverop/img/Black and Red Tech Data Analyst LinkedIn Banner.png"  />
+  <img height="300" src="/img/Black and Red Tech Data Analyst LinkedIn Banner.png"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Pedro Rivero</h1>
