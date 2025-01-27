@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src=""  />
+  <img height="200" src="../PedroRiverop/img/Black and Red Tech Data Analyst LinkedIn Banner.png"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Pedro Rivero</h1>
@@ -23,7 +23,7 @@
 
   ## 🌟 Featured Projects  
 
-📌 **CERBRO 27001(#)**  
+📌 **CERBRO 27001**  at [https://github.com/PedroRiverop/Plataforma-de-Gesti-n-de-Implementaci-n-de-ISO_27001]
 
 <br clear="both">
 
