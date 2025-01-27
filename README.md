@@ -71,6 +71,7 @@
 </div>
 
 ###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/pedroriverop/pedroriverop/output/snake.svg" alt="Snake animation" />
 
