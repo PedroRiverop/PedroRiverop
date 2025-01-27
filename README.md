@@ -1,3 +1,9 @@
+<br clear="both">
+
+<div align="center">
+  <img height="200" src=""  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Pedro Rivero</h1>
 <h3 align="center">A passionate developer who loves transforming ideas into digital realities. Frontend|Backend</h3>
 
@@ -20,10 +26,6 @@
 📌 **CERBRO 27001(#)**  
 
 <br clear="both">
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
 
 ###
 
