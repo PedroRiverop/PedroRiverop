@@ -23,7 +23,7 @@
 
   ## 🌟 Featured Projects  
 
-📌 **CERBRO 27001**  at [https://github.com/PedroRiverop/Plataforma-de-Gesti-n-de-Implementaci-n-de-ISO_27001]
+📌 **CERBRO 27001**  at [https://github.com/PedroRiverop/Plataforma-de-Gestion-de-Implementacion-ISO27001]
 
 <br clear="both">
 
