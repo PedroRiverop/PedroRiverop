@@ -6,6 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Pedro Rivero</h1>
 <h3 align="center">🔨 Full-Stack Developer | Crafting Robust Solutions from Concept to Code</h3>
+<p></p> A driven developer who loves  transforming ideas into digital realities. Specializing in end-to-end development, I bridge frontend elegance (React, JavaScript, Bootstrap) with backend precision (Python, RESTful APIs, SQL/NoSQL). Constantly exploring clean architectures and seamless integrations to solve real-world problems. </p>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/PedroRiverop](https://github.com/PedroRiverop)
