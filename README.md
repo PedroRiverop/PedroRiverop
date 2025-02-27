@@ -5,7 +5,8 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Pedro Rivero</h1>
-<h3 align="center">A passionate developer who loves transforming ideas into digital realities. Frontend|Backend</h3>
+<h3 align="center">🔨 Full-Stack Developer | Crafting Robust Solutions from Concept to Code</h3>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/PedroRiverop](https://github.com/PedroRiverop)
 
